@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mansi Sunil Vyas",
     type: "website",
-    url: "http://mansivyas261.com/",
+    url: "https://mansi261.github.io/",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1l2AP91tQTLRLZhdT9seCLCMc4Qf9qfZQ/view?usp=drive_link",
-  portfolio_repository: "https://github.com/mansi261/masterPortfolio",
+  portfolio_repository: "https://github.com/mansi261/mansi261.github.io",
   githubProfile: "https://github.com/mansi261/",
 };
 
